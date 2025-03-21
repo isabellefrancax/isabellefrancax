@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @isabellefrancax
-- 👀 I’m interested in Front-end
+- 👀 I’m interested in Front-end development
 - 🌱 I’m currently learning React/Typescript/Node.js
 
 <!---
