@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @isabellefrancax
-- 👀 I’m interested in Front-end development
+- 👀 I’m interested in Front-end development and Quality Assurance (QA)
 - 🌱 I’m currently learning React/Cypress
 
 <!---
